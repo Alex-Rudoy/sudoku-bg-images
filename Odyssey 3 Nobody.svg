@@ -1,4 +1,9 @@
 <svg width="672" height="672" viewBox="0 0 672 672" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+    .game {
+        background-color: #000;
+    }
+</style>
 <g clip-path="url(#clip0_5208_567)">
 <rect width="672" height="672" fill="white"/>
 <rect x="-21.4248" y="-19.396" width="704.938" height="704.938" fill="url(#pattern0_5208_567)"/>
